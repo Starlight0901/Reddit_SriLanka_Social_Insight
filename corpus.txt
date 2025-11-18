@@ -1,0 +1,3 @@
+This is a sample document! It has punctuation.
+Transformers changed NLP forever.
+Tokenization affects vocabulary, sequence length, and model quality.
