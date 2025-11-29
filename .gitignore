@@ -3,3 +3,8 @@
 *.joblib
 *.pkl
 *.bin
+
+# Ignore large model files
+*.joblib
+*.pkl
+*.bin
